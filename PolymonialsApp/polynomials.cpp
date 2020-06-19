@@ -13,6 +13,7 @@
 #include "../Polynomials/EquationDatabase.h"
 #include "../Polynomials/App.h"
 
+
 int main()
 {
     setlocale(LC_ALL, "");
